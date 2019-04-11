@@ -1,0 +1,29 @@
+.green_button{
+    background: #19692c !important;
+    border: #1c7430 !important;
+    color : #fff !important;
+  }
+
+.all-black{
+  color : #000000 !important;
+}
+
+.back-effect{
+  background: rgba(255, 255, 255, 0.4) !important;
+}
+
+.green{
+  border: #1c7430 !important;
+  color : #19692c !important;
+ 
+}
+
+.icon-rescaled{
+  max-width: 60% !important;
+  color : white !important;
+  fill: #fff !important;
+}
+
+.green-circle{
+  background:  #19692c !important;
+}
