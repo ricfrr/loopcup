@@ -198,6 +198,7 @@
 }
 
 .payoff_text {
+  font-size: 25pt;
   padding-top : 10pt;
   display: block;
   margin-left: auto;
