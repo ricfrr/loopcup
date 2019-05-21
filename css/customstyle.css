@@ -234,3 +234,18 @@
 .payoff_container{
   padding-top: 35pt;
 }
+
+.center-block{
+  align-content: center !important;
+  align-items: center !important;
+}
+
+.info{
+  color: whitesmoke;
+  font-size: 25pt;
+}
+
+.email-button{
+  color: whitesmoke;
+  font-size: 15pt;
+}
